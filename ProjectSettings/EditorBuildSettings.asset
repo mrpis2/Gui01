@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyGame/Scene/Lesson6.unity
-    guid: b0fc838e8bc15b2439a5b7273c7b5355
+    path: Assets/MyGame/Scene/Home Scene.unity
+    guid: 8aef865146fdb3448a6ac9f2713adc6d
+  - enabled: 1
+    path: Assets/MyGame/Scene/Gara Scene.unity
+    guid: c7f6578f038b5c7498f35ff4d61cb29d
+  - enabled: 1
+    path: Assets/MyGame/Scene/Store Scence.unity
+    guid: cc807cc7cd9f22742a2da0b54cd078b7
   m_configObjects: {}
